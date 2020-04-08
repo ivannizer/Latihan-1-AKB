@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Latihan1</string>
+    <string name="ketentuan">
+        Dengan menekan tombol masuk berarti Anda menyetujui <b> Ketentuan Pengguna </b> dan <b>Kebijakan Data kami</b>
+    </string>
+</resources>
